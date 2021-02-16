@@ -1,0 +1,123 @@
+body {
+
+
+
+}
+
+header {
+margin-top: 0;
+	margin-bottom: 0px;
+	text-align: center;
+	width: 100%;
+}
+
+#line {
+    height: 0.25%;
+    background-color: black;
+    color: black;
+    opacity: 0.5;
+}
+
+#line2 {
+    height: 0.25%;
+    width: 50%;
+    background-color: black;
+    color: black;
+    opacity: 0.5;
+}
+
+
+#logotopleft {
+    float: left;
+    margin-top: 0.5%;
+
+}
+
+
+#header ul {
+	margin-top: 0;
+	padding: 3.5% 0 0;
+    opacity: 0.8;
+    background-repeat: no-repeat;
+    height: 12%;
+}
+
+#header ul li {
+	display: inline;
+	list-style: none;
+	margin: 0;
+	padding: 0 1%;
+}
+
+
+
+#home {
+    overflow: hidden;
+    margin-left: 28%;
+    vertical-align: top;
+    text-decoration: none;
+    font-family: "OCR A Std", monospace;
+    font-weight: bold;
+    font-size: 150%;
+    color: #8a8a8a;
+    position: static;
+}
+
+#blog {
+    overflow: hidden;
+    margin-left: 2%;
+    vertical-align: top;
+    text-decoration: none;
+    font-family: "OCR A Std", monospace;
+    font-weight: bold;
+    font-size: 150%;
+    color: #8a8a8a;
+    position: static;
+}
+
+#login {
+    overflow: hidden;
+    margin-left: 2%;
+    vertical-align: top;
+    text-decoration: none;
+    font-family: "OCR A Std", monospace;
+    font-weight: bold;
+    font-size: 150%;
+    color: #8a8a8a;
+    position: static;
+}
+#register {
+    overflow: hidden;
+    margin-left: 2%;
+    vertical-align: top;
+    text-decoration: none;
+    font-family: "OCR A Std", monospace;
+    font-weight: bold;
+    font-size: 150%;
+    color: #8a8a8a;
+    position: static;
+}
+
+
+
+#form {
+    background-color: #dfdfdf;
+    width: 50%;
+    margin-left: 24%;
+    text-align: center;
+}
+
+#propic {
+
+width: 25%;
+height: 25%;
+
+}
+
+  
+
+
+footer {
+    opacity: 0.7;
+    background-color: #a7a7a7;
+}
