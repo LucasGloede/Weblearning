@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\laravellearning\laravalearning\resources\views/readpost.blade.php ENDPATH**/ ?>

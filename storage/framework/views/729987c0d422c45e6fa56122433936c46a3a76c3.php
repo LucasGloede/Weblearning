@@ -1,0 +1,1 @@
+<?php echo e($name); ?><?php /**PATH C:\xampp\laravellearning\laravalearning\resources\views/test.blade.php ENDPATH**/ ?>
